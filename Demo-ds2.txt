@@ -1,1 +1,2 @@
 Hello Mentees, Please learn how to use GitHub! :')
+This is the first commit!
