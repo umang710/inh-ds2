@@ -1,3 +1,2 @@
 This is a new file used for explaination for my mentees.
-
-This is a change.
+Hi, this is a plain simple github test.
